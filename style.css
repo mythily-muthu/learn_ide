@@ -5,17 +5,11 @@ body {
   background-color: rgb(223, 168, 168);
 }
 header {
-  background-color: white;
+  background-color: rgb(196, 59, 59);
   display: flex;
- justify-items: center;
+  justify-items: center;
+}
 
-}
-.left_header {
-}
 .right_header {
   margin-left: px;
-}
-.center_header {
-  /*display: flex;
-  justify-content: center;
 }
